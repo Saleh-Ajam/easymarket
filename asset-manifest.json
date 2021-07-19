@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/easymarket/static/css/main.2c23872d.chunk.css",
-    "main.js": "/easymarket/static/js/main.b901e6c1.chunk.js",
-    "main.js.map": "/easymarket/static/js/main.b901e6c1.chunk.js.map",
+    "main.js": "/easymarket/static/js/main.172cdce7.chunk.js",
+    "main.js.map": "/easymarket/static/js/main.172cdce7.chunk.js.map",
     "runtime-main.js": "/easymarket/static/js/runtime-main.64e1386a.js",
     "runtime-main.js.map": "/easymarket/static/js/runtime-main.64e1386a.js.map",
     "static/css/2.3448d392.chunk.css": "/easymarket/static/css/2.3448d392.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.3448d392.chunk.css",
     "static/js/2.648bf5dc.chunk.js",
     "static/css/main.2c23872d.chunk.css",
-    "static/js/main.b901e6c1.chunk.js"
+    "static/js/main.172cdce7.chunk.js"
   ]
 }
